@@ -1,7 +1,6 @@
 JAVA 버전별 특징
 ===========================
 
-
 ### :heavy_plus_sign: JAVA SE 17 (JSR392) 2021-09
 
 ### :heavy_plus_sign: JAVA SE 16 (JSR391) 2021-03
@@ -21,6 +20,12 @@ JAVA 버전별 특징
 ### :heavy_plus_sign: JAVA SE 9 (JSR379) 2017-09
 
 ### :heavy_plus_sign: JAVA SE 8 (JSR337) 2014-03
+
+### 용어 정리
+* JCP(Java Community Process)
+* JLS(Java Language Specification)
+* JEP(Java Enhancement Proposal)
+* JSR(Java Specification Request)
 
 ### 참조
 [java specs](https://docs.oracle.com/javase/specs/index.html)  
